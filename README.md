@@ -1,4 +1,0 @@
-wp-radio
-========
-
-WordPress Radio
